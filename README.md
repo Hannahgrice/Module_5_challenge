@@ -1,1 +1,2 @@
 # Module_5_challenge
+In this challenge I added a few of my own "troubleshooting" lines of code to make sure the cleaning process of my data was validated. I first printed the unique values of tumor volume in the original df before duplicate rows were dropped off.  I was confused by the consistant number of 45 that I kept seeing and brought this to my TAs, although they did not see any issues with my code so I went forth and analyzed the data I recieved.  
